@@ -1,11 +1,11 @@
 # 华擎 B460M-ITX/ac OpenCore EFI
 
 ```
-Version: 2023-01-10
-OpenCore Version: 0.8.8
+OpenCore Version: 0.9.3
+Version: 2023-06-20
 License: MIT License
-Author: inferno33
 ```
 
-关于本机：
-![B460M-ITX_OC_About_01](https://cdn.staticaly.com/gh/inferno0303/assets@main/README%E5%9B%BE%E5%BA%8A/B460M-ITX_OC_About_01.4zp777xr5xo0.webp)
+## 关于本机
+
+<img width="300" src="https://cdn.staticaly.com/gh/inferno0303/assets@main/README图床/B460M-ITX_OC_About_01.20y8y3ks1ta8.webp" alt="B460M-ITX_OC_About_01">
