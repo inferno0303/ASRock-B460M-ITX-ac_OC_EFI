@@ -3,8 +3,8 @@
 适用于 ASRock(华擎) B460M-ITX/ac 主板的 OpenCore 黑苹果引导程序
 
 ```
-OpenCore Version: 0.9.4
-Updated: 2023-08-08
+OpenCore Version: 0.9.5
+Updated: 2023-10-14
 License: MIT License
 ```
 
@@ -13,8 +13,6 @@ License: MIT License
 <img width=250 src="https://cdn.staticaly.com/gh/inferno0303/assets@main/README图床/B460M-ITX_OC_About_01.20y8y3ks1ta8.webp" alt="关于本机" />
 
 ## 更新记录
-
-（按时间顺序）
 
 - 2022-07-17:  
 更新至 OC 0.8.2
@@ -30,3 +28,6 @@ License: MIT License
 
 - 2023-08-08:  
 更新至 OC 0.9.4
+
+- 2023-10-14:  
+更新至 OC 0.9.5
