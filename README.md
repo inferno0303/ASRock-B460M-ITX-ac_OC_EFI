@@ -1,33 +1,48 @@
-# ASRock(华擎) B460M-ITX/ac OpenCore-EFI
+# ASRock B460M-ITX/ac OpenCore-EFI
 
-适用于 ASRock(华擎) B460M-ITX/ac 主板的 OpenCore 黑苹果引导程序
+**适用于：华擎B460M-ITX/ac 黑苹果OpenCore引导程序**
 
 ```
-OpenCore Version: 0.9.5
-Updated: 2023-10-14
-License: MIT License
+Updated: 2024-01-24
+OpenCore Version: 0.9.7
 ```
 
 ## 关于本机
 
-<img width=250 src="https://cdn.staticaly.com/gh/inferno0303/assets@main/README图床/B460M-ITX_OC_About_01.20y8y3ks1ta8.webp" alt="关于本机" />
+- CPU: i5-10400
+- GPU: Intel UHD630
+- RAM: 16GB DDR4 2666MHz
+- MotherBoard: ASRock B460M-ITX/ac
+
+<img width=250 src="https://cdn.jsdelivr.net/gh/inferno0303/assets@main/README图床/B460M-ITX_OC_About_01.20y8y3ks1ta8.webp" alt="关于本机" />
 
 ## 更新记录
 
-- 2022-07-17:  
-更新至 OC 0.8.2
+### 2022-07-17
 
-- 2022-08-14:  
-更新至 OC 0.8.3
+- OpenCore 0.8.2
 
-- 2023-01-09:  
-更新至 OC 0.8.8
+### 2022-08-14
 
-- 2023-06-20:  
-更新至 OC 0.9.3
+- OpenCore 0.8.3
 
-- 2023-08-08:  
-更新至 OC 0.9.4
+### 2023-01-09
 
-- 2023-10-14:  
-更新至 OC 0.9.5
+- OpenCore 0.8.8
+
+### 2023-06-20
+
+- OpenCore 0.9.3
+
+### 2023-08-08
+
+- OpenCore 0.9.4
+
+### 2023-10-14
+
+- OpenCore 0.9.5
+
+### 2024-01-24
+
+- OpenCore 0.9.7
+- Support macOS 14 Sonoma
