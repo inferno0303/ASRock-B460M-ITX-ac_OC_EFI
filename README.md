@@ -3,8 +3,8 @@
 **适用于：华擎B460M-ITX/ac 黑苹果OpenCore引导程序**
 
 ```
-Updated: 2024-01-24
-OpenCore Version: 0.9.7
+Updated: 2024-02-17
+OpenCore Version: 0.9.8
 ```
 
 ## 关于本机
@@ -46,3 +46,7 @@ OpenCore Version: 0.9.7
 
 - OpenCore 0.9.7
 - Support macOS 14 Sonoma
+
+### 2024-02-17
+
+- OpenCore 0.9.8
